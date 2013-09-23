@@ -1,0 +1,24 @@
+.menu{
+	border: 1px solid;	
+	width: 100%;
+}
+
+.submenu{
+	width: 75%;
+	height: 40px;
+	border: 2px solid;
+	text-align:center;
+	line-height: 40px;
+	margin:5px auto;
+	border-radius: 5px;
+	border-color: #20B2AA;
+}
+
+.submenu:hover{
+	background-color:#00f0f0;
+}
+
+.flagImg, .testList{
+	text-align: center;
+}
+
