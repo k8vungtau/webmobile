@@ -1,3 +1,7 @@
+.ui-body-c, .ui-overlay-c { 
+	background-color:#00ff00; 
+}
+
 .menu{
 	border: 1px solid;	
 	width: 100%;
